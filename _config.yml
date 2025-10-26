@@ -26,12 +26,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Joris Beemster"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "he/him"
+  bio              : "PhD researcher studying tidal patterns and their impact on coastal ecosystems."
+  location         : "Wageningen, The Netherlands"
+  employer         : "Wageningen University & Research"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "joris.beemster@wur.nl" 
 
   # Academic websites
   academia         : # URL
