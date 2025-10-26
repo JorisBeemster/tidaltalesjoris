@@ -24,7 +24,7 @@ repository               : "jorisbeemster/tidaltalesjoris.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-1.jpg"
+  avatar           : "images/bio-photo-1.jpg"
   name             : "Joris Beemster"
   pronouns         : "he/him"
   bio              : "PhD researcher studying tidal patterns and their impact on coastal ecosystems."
