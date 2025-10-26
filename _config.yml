@@ -14,7 +14,7 @@ subtitle                 : "Exploring the rhythms of the sea"
 title_separator          : "-"
 name                     : &name "Joris Beemster"
 description              : &description "Joris Beemster's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://jorisbeemster.github.io/tidaltalesjoris/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://jorisbeemster.github.io/tidaltalesjoris # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jorisbeemster/tidaltalesjoris.github.io"
@@ -24,7 +24,7 @@ repository               : "jorisbeemster/tidaltalesjoris.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/bio-photo-1.jpg"
+  avatar           : "bio-photo-1.jpg"
   name             : "Joris Beemster"
   pronouns         : "he/him"
   bio              : "PhD researcher studying tidal patterns and their impact on coastal ecosystems."
